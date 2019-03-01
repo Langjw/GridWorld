@@ -17,3 +17,17 @@ If the bug moves over it, it resets the color and the flower spins.
 No
 
 Yes, the bug can occupy the same space as a flower, but the rock cannot.
+
+
+Excersises
+<ls>
+  0 - North
+  45 - North East
+  90 - East
+  135 - South East
+  180 - South
+  225 - South West
+  270 - West
+  315 - North west
+  360 - North
+</ls>
