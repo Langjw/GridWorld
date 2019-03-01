@@ -20,7 +20,7 @@ Yes, the bug can occupy the same space as a flower, but the rock cannot.
 
 
 Excersises
-<ls>
+<ul>
   0 - North
   45 - North East
   90 - East
@@ -30,4 +30,4 @@ Excersises
   270 - West
   315 - North west
   360 - North
-</ls>
+</ul>
