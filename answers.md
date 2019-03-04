@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-Part 1:
+<h1>Part 1:</h1>
 <ol>
 <li>No, if the bug is completely surrounded, the bug will not move to a new location.</li>
 <li>The bug moves in whichever direction that is not blocked.</li>
@@ -32,6 +32,13 @@ Part 1:
 <li>setColor</li>
 <li>The bug disappeared</li>
 </ol>
-Part 2:
-
+<h1>Part 2:</h1>
+<ol>
+  <li>It tells the bug how long each side of the box should be.</li>
+  <li>Tells the bug how many steps to take before turning.</li>
+  <li>To tell the bug to turn 90 degrees.</li>
+  <li>The BoxBug class extends the Bug class.</li>
+  <li>It could be, but the user would set it.</li>
+  <li></li>
+  <li></li>
 </html>
