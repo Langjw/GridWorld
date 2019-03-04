@@ -42,7 +42,10 @@ Part 1:
   
   9. 360 - North
   </ls>
+  
 2. You can move the bug anywhere in the grid, If you try to move it outside of the grid, an error will pop up.
+
 3. setColor
+
 4. The bug disappeared
 </ls>
