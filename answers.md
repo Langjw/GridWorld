@@ -16,7 +16,7 @@ Part 1:
 </ol>
 
 <ol>
-Excersises</li>
+<li>Excersises</li>
 <ol>
   <li>0 - North</li>
   <li>45 - North East</li>
