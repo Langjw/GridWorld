@@ -25,13 +25,21 @@ Part 1:
 1. Excersises
   <ls>
   1. 0 - North
+    
   2. 45 - North East
+    
   3. 90 - East
+  
   4. 135 - South East
+  
   5. 180 - South
+  
   6. 225 - South West
+  
   7. 270 - West
+  
   8. 315 - North west
+  
   9. 360 - North
   </ls>
 2. You can move the bug anywhere in the grid, If you try to move it outside of the grid, an error will pop up.
