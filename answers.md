@@ -1,4 +1,5 @@
 Part 1:
+<ls>
 1. No, if the bug is completely surrounded, the bug will not move to a new location.
 
 2. The bug moves in whichever direction that is not blocked.
@@ -18,10 +19,11 @@ Part 1:
 9. No
 
 10. Yes, the bug can occupy the same space as a flower, but the rock cannot.
+</ls>
 
-
-
+<ls>
 1. Excersises
+  <ls>
   1. 0 - North
   2. 45 - North East
   3. 90 - East
@@ -31,6 +33,8 @@ Part 1:
   7. 270 - West
   8. 315 - North west
   9. 360 - North
+  </ls>
 2. You can move the bug anywhere in the grid, If you try to move it outside of the grid, an error will pop up.
 3. setColor
 4. The bug disappeared
+</ls>
