@@ -45,5 +45,6 @@
 <h3>Excercises</h3>
 <ol>
   <li>Instead of turning 90 degrees, the bug turns 45 degrees, making more of an octogonal shape rather than a circle.</li>
+  <li> 5. I would have to create a new boxbug and then name it. then I would have to add it to the world and give it a location on the grid.
 </ol>
 </html>
