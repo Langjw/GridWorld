@@ -39,6 +39,7 @@
   <li>To tell the bug to turn 90 degrees.</li>
   <li>The BoxBug class extends the Bug class.</li>
   <li>It could be, but the user would set it.</li>
-  <li></li>
-  <li></li>
+  <li>Yes, If the bug hits an obstacle, the bug will change direction, therefore, if the bug's path is interrupted by anything, the bug's path will change.</li>
+  <li>After the bug turns.</li>
+</ol>
 </html>
