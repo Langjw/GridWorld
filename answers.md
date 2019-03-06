@@ -42,4 +42,8 @@
   <li>Yes, If the bug hits an obstacle, the bug will change direction, therefore, if the bug's path is interrupted by anything, the bug's path will change.</li>
   <li>After the bug turns.</li>
 </ol>
+<h3>Excercises</h3>
+<ol>
+  <li>Instead of turning 90 degrees, the bug turns 45 degrees, making more of an octogonal shape rather than a circle.</li>
+</ol>
 </html>
