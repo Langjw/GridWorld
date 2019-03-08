@@ -47,4 +47,12 @@
   <li>Instead of turning 90 degrees, the bug turns 45 degrees, making more of an octogonal shape rather than a circle.</li>
   <li> 5. I would have to create a new boxbug and then name it. then I would have to add it to the world and give it a location on the grid.
 </ol>
+<h1>Part 3</h1>
+<ol>
+  <li></li>
+  <li>3, 4</li>
+  <li>3, 5</li>
+  <li>South East</li>
+  <li>It returns the adjacent location based on the direction entered as a parameter.</li>
+</ol>
 </html>
