@@ -14,9 +14,7 @@
 <li>No</li>
 <li>Yes, the bug can occupy the same space as a flower, but the rock cannot.</li>
 </ol>
-
-<ol>
-<li>Excersises</li>
+<h1>Excercises</h1>
 <ol>
   <li>0 - North</li>
   <li>45 - North East</li>
@@ -28,6 +26,7 @@
   <li>315 - North west</li>
   <li>360 - North</li>
 </ol>
+<ol>
 <li>You can move the bug anywhere in the grid, If you try to move it outside of the grid, an error will pop up.</li>
 <li>setColor</li>
 <li>The bug disappeared</li>
