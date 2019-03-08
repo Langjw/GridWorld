@@ -14,7 +14,7 @@
 <li>No</li>
 <li>Yes, the bug can occupy the same space as a flower, but the rock cannot.</li>
 </ol>
-<h1>Excercises</h1>
+<h3>Excercises</h3>
 <ol>
   <li>0 - North</li>
   <li>45 - North East</li>
@@ -48,7 +48,7 @@
 </ol>
 <h1>Part 3</h1>
 <ol>
-  <li></li>
+  <li>loc1.getLocation();</li>
   <li>3, 4</li>
   <li>3, 5</li>
   <li>South East</li>
