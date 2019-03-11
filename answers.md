@@ -54,4 +54,11 @@
   <li>South East</li>
   <li>It returns the adjacent location based on the direction entered as a parameter.</li>
 </ol>
+<ol>
+  <li>You can use the getEmptyAdjacentLocations, and getOccupiedAdjacentLocations commands in order to count how many empty spaces and how many occupied spaces their are.</li>
+  <li>Use the isValid command to see if the location is valid on the grid.</li>
+  <li>You can find the implementations in a different location.</li>
+  <li>I don't believe so, the array list can be printed as a list, so it is easier to read.</li>
+  </ol>
+  
 </html>
