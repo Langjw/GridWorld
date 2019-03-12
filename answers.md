@@ -60,5 +60,30 @@
   <li>You can find the implementations in a different location.</li>
   <li>I don't believe so, the array list can be printed as a list, so it is easier to read.</li>
   </ol>
-  
+<h1>Part 4</h1>
+<ol>
+  <li>The Critter class extends Actor</li>
+  <li>processActors, moveLocs, getMoveLocations, selectMoveLocation, makeMove</li>
+  <li>They can if they need to.</li>
+  <li>Check for a rock, check for another critter, check for neighbors</li>
+  <li>The critter must get the locations that it can move in. Then it must select a move location. And then the critter must make the move to the next location.</li>
+  <li>The critter class is used to set all the basics for the subclasses of critter.</li>
+</ol>
+<ol>
+  <li>The chameleon makes its move differently than a critter.</li>
+  <li>It is calling the original make move in the Critter class, therefore it has to specify between themakeMove in ChameleonCritter, and the makeMove in Critter.</li>
+  <li>I would add these commands in the makeMove function : Flower flower = new Flower(getColor()); flower.putSelfInGrid(gr, loc))</li>
+  <li>It doesn't need to edit any of the actors, and it acts similarly to the Bug actor.</li>
+  <li>Actor</li>
+  <li>It extends the Actor class.</li>
+</ol>
+<ol>
+  <li>It doesn't need to change anything about it, it processes the actors the same way.</li>
+  <li>If an actor is directly in front of, to left of, or to the right of a crab, the crab will eat the other actor.</li>
+  <li>The crab can only move left to right or right to left, and it can only scan for other actors in front, on its left, or on its right.</li>
+  <li>(4, 4)(2, 4)(3, 5)</li>
+  <li>There aren' t a lot, the crab only moves left and right and.</li>
+  <li>If there are objects preventing the crab from moving the crab will turn.</li>
+  <li>They only check for the other actors, they don't check for eachother.</li>
+</ol>
 </html>
